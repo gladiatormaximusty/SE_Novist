@@ -1,4 +1,4 @@
-# SE_Novis_Project
+# SE_Novist_Project
 
 ## Project Name
 

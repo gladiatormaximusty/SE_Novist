@@ -16,9 +16,15 @@
 
 ## References
 *[Project Instructure](https://github.com/CS5704-VT/Course/blob/main/Project/README.md)
+
 *[Project Requirement -- Lightening Talk Instruction 2/9](https://github.com/CS5704-VT/Course/blob/main/Project/REQUIREMENTS.md)
+
 *[Project Proposal 2/14](https://github.com/CS5704-VT/Course/blob/main/Project/DESIGN.md)
+
 *[Project Design 2/17](https://github.com/CS5704-VT/Course/blob/main/Project/DESIGN.md)
+
 *[Project Implementation 4/28](https://github.com/CS5704-VT/Course/blob/main/Project/IMPLEMENTATION.md)
+
 *[Project Testing 5/5](https://github.com/CS5704-VT/Course/blob/main/Project/TESTING.md)
+
 *[Project Deploy 5/9](https://github.com/CS5704-VT/Course/blob/main/Project/DEPLOY.md)
